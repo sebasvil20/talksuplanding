@@ -96,10 +96,10 @@ const Home: NextPage = () => {
         </div>
       </header>
 
-      <aside className='relative overflow-hidden text-gray-300 w-4/5 m-auto h-screen  lg:flex'>
+      <aside className='relative overflow-hidden text-gray-300 w-4/5 m-auto h-50 md:h-screen  lg:flex'>
         <div className='p-12 text-center lg:w-1/2 sm:p-16 lg:p-24 lg:text-left flex items-center'>
           <div className='max-w-xl mx-auto lg:ml-0'>
-            <p className='mt-2 text-3xl text-gray-600 font-bold sm:text-8xl'>
+            <p className='mt-2 text-5xl text-gray-600 font-bold sm:text-7xl'>
               Encuentra tu siguiente podcast
             </p>
 
