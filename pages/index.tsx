@@ -55,7 +55,7 @@ const Home: NextPage = () => {
               <div className='sm:gap-4 sm:flex'>
                 <a
                   className='px-5 py-2.5 text-sm font-medium text-white bg-violet-700  hover:bg-violet-500 rounded-md shadow'
-                  href='https://talksup.app'
+                  href='https://www.talksup.app'
                   target='_blank'
                   rel='noopener noreferrer'
                 >
@@ -79,7 +79,7 @@ const Home: NextPage = () => {
               lugar.
             </p>
             <a
-              href='https://talksup.app'
+              href='https://www.talksup.app'
               target='_blank'
               rel='noopener noreferrer'
               className='inline-block px-5 py-3 mt-8 text-sm font-medium text-white bg-violet-500 rounded-lg hover:bg-violet-300'
@@ -112,7 +112,7 @@ const Home: NextPage = () => {
 
           <div className='grid grid-cols-1 gap-8 mt-8 md:grid-cols-2'>
             <a
-              href='https://talksup.app'
+              href='https://www.talksup.app'
               target='_blank'
               rel='noopener noreferrer'
               className='relative block overflow-hidden bg-center bg-no-repeat bg-cover  rounded-xl'
@@ -141,7 +141,7 @@ const Home: NextPage = () => {
               </div>
             </a>
             <a
-              href='https://talksup.app'
+              href='https://www.talksup.app'
               target='_blank'
               rel='noopener noreferrer'
               className='relative block overflow-hidden bg-center bg-no-repeat bg-cover  rounded-xl'
@@ -215,7 +215,7 @@ const Home: NextPage = () => {
                 </h1>
                 <div className='relative flex flex-col sm:flex-row sm:space-x-4'>
                   <a
-                    href='https://talksup.app'
+                    href='https://www.talksup.app'
                     target='_blank'
                     rel='noopener noreferrer'
                     className='flex items-center w-full px-8 py-5 mb-3 text-lg text-violet-700 bg-white rounded-full sm:mb-0 hover:bg-gray-100 sm:w-auto'
